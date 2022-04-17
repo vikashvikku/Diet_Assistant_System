@@ -2,7 +2,7 @@
 # import pytest
 
 
-from diet_assistant import cal, calorie
+from diet_assistant import calorie
 
 
 def testcase1():
